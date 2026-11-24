@@ -1,6 +1,6 @@
 # Calendario
 
-Plugin básico de calendario para koreader.
+Un plugin de calendario para koreader. Testeado en Kobo Libra Color.
 
 Hecho por Marcel Claude AI.
 <br>
